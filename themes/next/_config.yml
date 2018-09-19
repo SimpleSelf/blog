@@ -368,8 +368,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: disqus_xid6UlvrVS
   count: true
 
 # Hypercomments
