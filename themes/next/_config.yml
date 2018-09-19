@@ -369,7 +369,7 @@ han: false
 # Disqus
 disqus:
   enable: true
-  shortname: disqus_xid6UlvrVS
+  shortname: simpleself
   count: true
 
 # Hypercomments
